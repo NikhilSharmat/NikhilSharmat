@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">Data Analyst | Transitioning into Data Science & ML</h3>
 <p align="center">
   <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
