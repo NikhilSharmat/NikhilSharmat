@@ -1,28 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">Data Analyst | Transitioning into Data Science & ML</h3>
-<p align="center">
-  <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashishmaurya09/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/ashishishere786">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ashishmaurya_01/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
----
+
 
 ### 👨‍💻 About Me
 
 - 🔭 Passionate **Data Analyst & Aspiring Data Scientist** with a strong foundation in statistics, Python, and SQL
-- 🌱 I love solving real-world problems using **Machine Learning, Deep Learning**, and storytelling through **data visualization**
+- 🌱 I love solving real-world problems using **Machine Learning** and storytelling through **data visualization**
 - 🚀 Currently building end-to-end ML + BI projects to showcase on my [Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
-- 💬 Ask me about **Python, SQL, Power BI, scikit-learn, or Streamlit**
+- 💬 Ask me about **Python, SQL, Power BI,Google Sheets, Adv Excel,Python Libraries**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)**
 
 ---
